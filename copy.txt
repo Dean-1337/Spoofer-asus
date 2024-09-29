@@ -1,1 +1,0 @@
-AFUWINx64.exe *YOUR ROM FILE'S NAME*.rom /GAN
