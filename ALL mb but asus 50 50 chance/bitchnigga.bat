@@ -1,4 +1,4 @@
-cd C:\Users\Dean\Desktop\woofer\ALL mb but asus 50 50 chance
+cd C:\Users\Dean\Desktop\woofer\ALL mb but asus 50 50 chance (Replace with your folder location)
 @echo off
 cls
 
